@@ -1,0 +1,15 @@
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csprojAssemblyReference.cache
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfoInputs.cache
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfo.cs
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.deps.json
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.dll
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\net5.0\ref\TicTacToe.dll
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.pdb
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\net5.0\DoubleZ.dll
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\net5.0\DoubleZ.pdb
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.CopyComplete
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.dll
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\net5.0\ref\TicTacToe.dll
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.pdb

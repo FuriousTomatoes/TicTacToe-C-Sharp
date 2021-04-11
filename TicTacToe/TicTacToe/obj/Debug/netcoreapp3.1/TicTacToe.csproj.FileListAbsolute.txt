@@ -1,0 +1,13 @@
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csprojAssemblyReference.cache
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
