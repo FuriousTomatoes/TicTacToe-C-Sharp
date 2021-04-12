@@ -12,3 +12,4 @@ D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Re
 D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Release\net5.0\TicTacToe.dll
 D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Release\net5.0\ref\TicTacToe.dll
 D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Release\net5.0\TicTacToe.pdb
+D:\GIORGIO\Dati\GitHub Repositories\TicTacToe-C-Sharp\TicTacToe\TicTacToe\obj\Release\net5.0\TicTacToe.csprojAssemblyReference.cache

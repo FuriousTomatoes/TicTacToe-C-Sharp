@@ -4,14 +4,14 @@ using DoubleZ.Extensions;
 
 namespace TicTacToe
 {
-    enum Player { None, X, O };
+    public enum Player { None, X, O };
 
-    class InvalidTrisMoveException : Exception
+    public class InvalidTrisMoveException : Exception
     {
         public InvalidTrisMoveException() : base() { }
     }
 
-    class TicTacToe
+    public class TicTacToe
     {
         public Player[,] Board { get; private set; } = new Player[3, 3];
         public Player Turn { get; private set; }
